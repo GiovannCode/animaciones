@@ -3,8 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    margin-left: 20px;
+
+.container-principal{
+    width: 30%;
+    height: 100%;
+    padding: 50px 0 50px 0;
+    margin-left: auto;
 }
 
 .alerta-1{
